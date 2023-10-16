@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+nav {
+  margin-bottom: 1rem;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+#inputBox {
+  padding: 0.7rem;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  color: rgb(139, 136, 136);
+}
